@@ -1,6 +1,6 @@
 # ChatHome
 
-Inspired by : https://arxiv.org/pdf/2307.15290v1.pdf
+
 
 1.
 ![ChatHome-A-Domain-Specific-Language-Model-for-Home-Renovation_page-0001](https://github.com/Rakib-data-scientist/ChatHome/assets/137823730/4376f9ff-edaa-437e-8e41-4b5e8576e21c)
@@ -18,3 +18,6 @@ Inspired by : https://arxiv.org/pdf/2307.15290v1.pdf
 ![ChatHome-A-Domain-Specific-Language-Model-for-Home-Renovation_page-0007](https://github.com/Rakib-data-scientist/ChatHome/assets/137823730/90407e77-ea4d-4ce8-be11-bcde6ac946dc)
 8.
 ![ChatHome-A-Domain-Specific-Language-Model-for-Home-Renovation_page-0008](https://github.com/Rakib-data-scientist/ChatHome/assets/137823730/e348c935-0398-4885-99f8-519904c63160)
+
+
+* Inspired by : https://arxiv.org/pdf/2307.15290v1.pdf
